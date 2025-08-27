@@ -1,0 +1,5 @@
+STM32F103C8T6最小系统板
+ESP-01S Wi-Fi模块
+GY-NEO-6M GPS模块
+0.96寸OLED屏幕
+有源蜂鸣器
